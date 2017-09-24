@@ -1,0 +1,22 @@
+1   FreqM      2258.248879    +-0.000285
+2   FreqO      2195.040327    +-0.000285
+3   5J12          0.334510    +-0.001699
+4   3J13          8.079657    +-0.000593
+5   4J14          1.525925    +-0.000594
+6   3J34          7.485177    +-0.002002
+7   LW            0.130841    +-0.000519
+8   Magn      2.163660e+08    +-6.442229e+05
+
+Analysis of ODCB 1H NMR spectrum
+
+Line Broadening: 0.000000
+Theoretical spectrum linewidth: 0.130841
+RSS Value: 7.091817e+16
+R-Factor: 12.04 %
+
+Chemical shifts (ppm):
+     7.524     7.524     7.314     7.314
+J-coupling constants (Hz):
+              0.3345    8.0797    1.5259
+                        1.5259    8.0797
+                                  7.4852

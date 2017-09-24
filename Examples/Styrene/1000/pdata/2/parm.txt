@@ -1,0 +1,35 @@
+NAME       Styrene_C6D6                
+EXPNO              1000                
+PROCNO                1                
+Date_          20120801                
+Time              12.06                
+INSTRUM           spect                
+PROBHD   5 mm BBO BB-1H                
+PULPROG            zg30                
+TD               130930                
+SOLVENT           CDCl3                
+NS                    4                
+DS                    0                
+SWH            2997.602 Hz             
+FIDRES         0.022895 Hz             
+AQ           21.8391743 sec            
+RG                 90.5                
+DW              166.800 usec           
+DE                 6.00 usec           
+TE                302.2 K              
+D1           1.50000000 sec            
+MCREST       0.00000000 sec            
+MCWRK        0.01500000 sec            
+
+======== CHANNEL f1 ========
+NUC1                 1H                
+P1                12.25 usec           
+PL1                1.00 dB             
+SFO1        300.1312017 MHz            
+SI               262144                
+SF          300.1300000 MHz            
+WDW                  no                
+SSB                   0                
+LB                 0.00 Hz             
+GB                    0                
+PC                 1.00                

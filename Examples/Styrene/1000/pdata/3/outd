@@ -1,0 +1,16 @@
+##TITLE= Parameter file, TopSpin 4.0.1
+##JCAMPDX= 5.0
+##DATATYPE= Parameter Values
+##NPOINTS= 1	$$ modification sequence number
+##ORIGIN= Bruker BioSpin GmbH
+##OWNER= Dima
+$$ 2017-09-14 08:46:02.671 +0300  Dima@DimaPC
+$$ D:/data/dima/nmr/Styrene_C6D6_DPX300/1000/pdata/3/outd
+$$ process C:\Bruker\TopSpin401\prog\mod\dirdata.exe
+##$CURPLOT= <Apple LaserWriter II NT v47.0>
+##$CURPRIN= <$Apple LaserWriter II NT v47.0>
+##$DFORMAT= <normdp>
+##$LAYOUT= <+/1D_H.xwp>
+##$LFORMAT= <normlp>
+##$PFORMAT= <normpl>
+##END=

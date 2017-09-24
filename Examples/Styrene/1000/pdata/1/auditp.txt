@@ -1,0 +1,26 @@
+##TITLE= Audit trail, TopSpin 4.0.1
+##JCAMPDX= 5.01
+##ORIGIN= Bruker BioSpin GmbH
+##OWNER= Dima
+$$ D:/data/dima/nmr/Styrene_C6D6_DPX300/1000/pdata/1/auditp.txt
+##AUDIT TRAIL=  $$ (NUMBER, WHEN, WHO, WHERE, WHAT)
+(   1,<2012-08-01 12:06:04.10 +300>,<dima>,<DPX300>,
+      <created by zg, POWCHK disabled, PULCHK disabled
+       configuration hash MD5:
+       63 D2 2F 66 22 AB E7 C6 F7 37 1C BE 50 0D A1 9F
+       data hash MD5: 128K
+       2D 63 E0 50 17 81 D6 37 45 4F E6 ED C7 97 86 80>)
+(   2,<2012-08-01 19:36:20.129 +0400>,<Dima>,<BLACK_FIRE>,<proc1d>,<TOPSPIN 2.1>,
+      <convdta from       3 "Styrene_C6D6" "dpx300" "D:"
+       data hash MD5: 130930
+       6F 3A 0F 84 19 E8 2C 56 4E D7 5D E6 CE 87 7A 87>)
+(   3,<2017-09-14 08:45:30.045 +0300>,<Dima>,<DimaPC>,<proc1d>,<TopSpin 4.0.1>,
+      <Unknown data manipulation detected
+       Start of raw data processing
+       fp FT_mod = 6 PKNL = 1 PHC0 = 1.69585 PHC1 = -2.333921 SI = 128K 
+       data hash MD5: 128K
+       2F 43 FB C5 CB 8A 83 75 5B 51 74 81 44 78 B2 6E>)
+##END=
+
+$$ hash MD5
+$$ 42 B0 95 09 57 89 60 C4 F5 6F B3 7E B0 10 3F A3

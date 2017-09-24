@@ -1,0 +1,15 @@
+// AU Programm for executing ANATOLIA from TopSpin command line
+// File with parameter values and file 'Input_Data.txt'
+// should be located in the expno directory
+// Parameter PathToDataSet should be set to './'
+// Tested with TopSpin 4
+
+char path[PATH_MAX];
+strcpy(path,ACQUPATH("acqus")); // Getting the full path to acqus file
+path[strlen(path)-6]=0;         // Cutting '/acqus' tail
+chdir(path);                    // Setting current directory to EXPNO directory 
+
+sprintf(path,"%s/anatolia/ANATOLIA",PathXWinNMRProg()); // TopSpinHomeDir/prog/anatolia/ANATOLIA.exe
+system(path);
+
+QUIT
