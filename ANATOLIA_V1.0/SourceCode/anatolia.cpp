@@ -1440,7 +1440,9 @@ int main (void)
 
 	// Parsing input control file and initialize relevant data structures.
 	ifstream input("Input_Data.txt");
-	if (!input) { cout << "File Input_Data.txt does not exists!" << endl; exit_; };
+	if (!input) {
+        cout << "File Input_Data.txt does not exists in" << endl; exit_;
+    };
 	input.getline(Title, 256);      //  Title
 	input.getline(textline, 256);   //  Empty line
 	input >> textline >> SimMode;   //  Sim mode
