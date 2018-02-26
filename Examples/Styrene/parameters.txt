@@ -1,35 +1,35 @@
-1   F{1}Ortho                 2017.008724    +-0.000422
-2   F{3}Meta                  1976.970063    +-0.000289
-3   F{5}Para                  1959.096046    +-0.000685
-4   F{6}Alpha                 1819.729450    +-0.000431
-5   F{7}BettaC                1526.180754    +-0.000376
-6   F{8}BettaT                1366.962871    +-0.000445
-7   J{1,2}Ortho,Ortho',W         1.917468    +-0.000814
-8   J{1,3}Ortho,Meta             7.787879    +-0.000515
-9   J{1,4}Ortho,Meta'            0.606328    +-0.000519
-10  J{1,5}Ortho,Para,W           1.246325    +-0.000685
-11  J{1,6}Ortho,Alpha           -0.532282    +-0.000567
-12  J{1,7}Ortho,BettaC           0.033127    +-0.000637
-13  J{1,8}Ortho,BettaT           0.159525    +-0.000561
-14  J{3,4}Meta,Meta',W           1.419192    +-0.000845
-15  J{3,5}Meta,Para              7.438415    +-0.000629
-16  J{3,5}Meta,Alpha             0.347970    +-0.000446
-17  J{3,6}Meta,BettaC           -0.044273    +-0.000687
-18  J{3,7}Meta,BettaT           -0.037426    +-0.000774
-19  J{5,6}Para,Alpha             0.154381    +-0.000798
-20  J{5,7}Para,BettaC            0.233873    +-0.000624
-21  J{5,8}Para,BettaT            0.297724    +-0.000674
-22  J{6,7}Alpha,BettaC          17.600267    +-0.000560
-23  J{6,8}Alpha,BettaT          10.895481    +-0.000604
-24  J{7,8}BettaC,BettaT          1.038022    +-0.000553
-25  Linewidth                    0.055995    +-0.000476
-26  Magnitude                1.633354e+08    +-8.168940e+05
+1   F{1}Ortho                 2017.008774    +-0.000275
+2   F{3}Meta                  1976.969741    +-0.000179
+3   F{5}Para                  1959.096563    +-0.000405
+4   F{6}Alpha                 1819.730000    +-0.000278
+5   F{7}BettaC                1526.179768    +-0.000253
+6   F{8}BettaT                1366.964450    +-0.000312
+7   J{1,2}Ortho,Ortho',W         1.917645    +-0.000569
+8   J{1,3}Ortho,Meta             7.787949    +-0.000366
+9   J{1,4}Ortho,Meta'            0.605839    +-0.000345
+10  J{1,5}Ortho,Para,W           1.244846    +-0.000427
+11  J{1,6}Ortho,Alpha           -0.534460    +-0.000396
+12  J{1,7}Ortho,BettaC           0.036784    +-0.000360
+13  J{1,8}Ortho,BettaT           0.158310    +-0.000375
+14  J{3,4}Meta,Meta',W           1.418620    +-0.000581
+15  J{3,5}Meta,Para              7.439217    +-0.000408
+16  J{3,5}Meta,Alpha             0.369841    +-0.000297
+17  J{3,6}Meta,BettaC            0.020213    +-0.000516
+18  J{3,7}Meta,BettaT            0.013991    +-0.000449
+19  J{5,6}Para,Alpha            -0.228601    +-0.000534
+20  J{5,7}Para,BettaC            0.228546    +-0.000405
+21  J{5,8}Para,BettaT            0.290633    +-0.000422
+22  J{6,7}Alpha,BettaC          17.600346    +-0.000376
+23  J{6,8}Alpha,BettaT          10.895381    +-0.000406
+24  J{7,8}BettaC,BettaT          1.038109    +-0.000385
+25  Linewidth                    0.051459    +-0.000305
+26  Magnitude                1.645241e+08    +-5.195456e+05
 
 Analysis of STYRENE 1H NMR spectrum
 
-Warning! Chemical shift no. 4 (1819.729450) does not fall into any of defined spectral intervals.
-Warning! Chemical shift no. 5 (1526.180754) does not fall into any of defined spectral intervals.
-Warning! Chemical shift no. 6 (1366.962871) does not fall into any of defined spectral intervals.
+Warning! Chemical shift no. 4 (1819.730000) does not fall into any of defined spectral intervals.
+Warning! Chemical shift no. 5 (1526.179768) does not fall into any of defined spectral intervals.
+Warning! Chemical shift no. 6 (1366.964450) does not fall into any of defined spectral intervals.
 Warning! Spectral interval no. 3 does not contain any chemical shift.
 Warning! Spectral interval no. 4 does not contain any chemical shift.
 Warning! Spectral interval no. 5 does not contain any chemical shift.
@@ -40,17 +40,17 @@ Warning! Spectral interval no. 9 does not contain any chemical shift.
 Warning! Spectral interval no. 10 does not contain any chemical shift.
 
 Line Broadening: 0.000000
-Theoretical spectrum linewidth: 0.055995
-RSS Value: 2.857529e+16
-R-Factor: 12.67 %
+Theoretical spectrum linewidth: 0.051459
+RSS Value: 1.391104e+16
+R-Factor: 8.84 %
 
 Chemical shifts (ppm):
      6.720     6.720     6.587     6.587     6.527     6.063     5.085     4.555
 J-coupling constants (Hz):
-              1.9175    7.7879    0.6063    1.2463   -0.5323    0.0331    0.1595
-                        0.6063    7.7879    1.2463   -0.5323    0.0331    0.1595
-                                  1.4192    7.4384    0.3480   -0.0443   -0.0374
-                                            7.4384    0.3480   -0.0443   -0.0374
-                                                      0.1544    0.2339    0.2977
-                                                               17.6003   10.8955
-                                                                          1.0380
+              1.9176    7.7879    0.6058    1.2448   -0.5345    0.0368    0.1583
+                        0.6058    7.7879    1.2448   -0.5345    0.0368    0.1583
+                                  1.4186    7.4392    0.3698    0.0202    0.0140
+                                            7.4392    0.3698    0.0202    0.0140
+                                                     -0.2286    0.2285    0.2906
+                                                               17.6003   10.8954
+                                                                          1.0381

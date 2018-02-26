@@ -1619,7 +1619,7 @@ int main (void)
 			if (status == GSL_SUCCESS)
 				cout << "converged to minimum at" << endl;
 
-			cout << "iteration " << iter << '\t' << s->fval << '\t' << size << endl;
+			cout << "Iteration " << iter << '\t' << s->fval << '\t' << size << endl;
 			
 		} while (status == GSL_CONTINUE);
 
