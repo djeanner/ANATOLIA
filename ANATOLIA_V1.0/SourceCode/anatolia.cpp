@@ -10,6 +10,11 @@
 /***          http://anatolia.nmrclub.ru           ***/
 /***     https://github.com/dcheshkov/ANATOLIA     ***/
 /*****************************************************/
+/* additional comments by Damien Jeannerat   */
+/* reading from acqus file: BF1 O1 SW_h SW_H */
+/* reading from procs file: SF SI            */
+/* reading 1r file                           */
+
 #include <cstdlib>
 #include <cstring>
 #include <cmath>
